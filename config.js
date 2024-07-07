@@ -12,15 +12,15 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["923363797634", "Prince", false],
   [''], 
   [''] 
 ]
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+//💌global.pairingNumber = "923363797634" //put your bot number here💌
+global.mods = ['923363797634'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -31,6 +31,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 //💌------------------------------------------💌
+
 
 
 
@@ -60,7 +61,7 @@ global.APIKeys = { // APIKey Here
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
+global.imagen1 = fs.readFileSync("./Assets/menus/Menu1.jpg")
 global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
 global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
 global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
@@ -75,23 +76,23 @@ global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 
 
 
-global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' 
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' 
-global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
-global.img6 = 'https://i.imgur.com/cYFgSKv.jpeg'
-global.img7 = 'https://i.imgur.com/JqL3h2V.jpeg'
-global.img8 = 'https://i.imgur.com/PCujt1s.jpeg'
-global.img9 = 'https://i.imgur.com/xfUEdDb.jpeg'
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg'
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg'
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
-global.img16 = 'https://i.imgur.com/JpYfcH0.jpeg'
-global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'
+global.img = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img2 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img3 = 'https://i.imgur.com/2EXdntw.jpeg' 
+global.img4 = 'https://i.imgur.com/2EXdntw.jpeg' 
+global.img5 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img6 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img7 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img8 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img9 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img10 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img11 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img12 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img13 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img14 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img15 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img16 = 'https://i.imgur.com/2EXdntw.jpeg'
+global.img17 = 'https://i.imgur.com/2EXdntw.jpeg'
 //💌------------------------------------------💌
 
 
@@ -114,29 +115,29 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/923363797634' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.botname = '𝗣𝗥𝗜𝗡𝗖𝗘 𝗫 𝗛𝗔𝗖𝗞𝗘𝗥'
+global.princebot = '🛡️𝗣𝗥𝗜𝗡𝗖𝗘 𝗫 𝗛𝗔𝗖𝗞𝗘𝗥🛡️'
 global.packname = 'Prince♥️' 
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.princegp = 'https://chat.whatsapp/923363797634'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.Princesc = 'https://github.com/HsnCyber/LEGEND-X-HM ' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./Assets/Prince.png')
+global.Princelog = 'https://i.imgur.com/2EXdntw.jpeg'
+global.thumb = fs.readFileSync('./https://i.imgur.com/2EXdntw.jpeg')
 //💌------------------------------------------💌
 
 
 
 //Reactions
-global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._.prince.hacker*\n*▰▰▰▱▱▱▱▱*'
 global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
